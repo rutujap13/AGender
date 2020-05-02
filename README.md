@@ -2,7 +2,7 @@
 Age and Gender Detection using Python
 
 ### Description
-Age and Gender detection using OpenCV, Keras, Tensorflow and Wiki-crop dataset. 
+Age and Gender detection using OpenCV, Keras, Tensorflow and Wiki-crop dataset and imbd dataset. 
 OpenCV is used to detect face,crop and to grayscale image. Haar-cascade frontal face classifier is used to detect face for complex image.\
 A custom Convolutional Neural Network is used in this purpose. Any CNN will work. The CNN implementation is on **CNN.py**. 
 Dataset preprocessing and cleaning is done on **Dataset.py**.\
